@@ -2,9 +2,9 @@
 layout: post
 title: Hello Jekyll
 date: 2018-10-09
-tag: Jekyll
+tag: StaticGen
 author: Alexa Crisis
-categories: ["Jekyll"]
+categories: ["web"]
 image: "a.png"
 ---
 
