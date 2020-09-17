@@ -1,47 +1,41 @@
-title: Papiro
-description: Personal website powered by Jekyll
-markdown: kramdown
-url: "https://sswellington.github.io" 
-baseurl: "/blog"
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# for atom feed
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
 author:
-  name: Wellington Silva
-  email: wellingtons@id.uff.br
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
-# GOOGLE-ANALYTICS
-# Set the id, if you want to track your website with Google Analytics
-# > set this to "", if you do not want to track with Google Analytics
-google-analytics:
-  id: "UA-169300905-1"
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
 plugins:
-  - jekyll-paginate
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-paginate_path: "/page:num/"
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
 
-paginate: 5
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-collections_dir: 
-collections:
-  posts:
-    output: true
-  projects:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "post"
-  - scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      permalink: /posts/:categories/:year/:month/:day/:title/
-
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale

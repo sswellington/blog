@@ -3,7 +3,7 @@ layout: post
 title:  "Hello Jekyll"
 date:   2020-05-15 22:42:34 -0300
 author: Wellington Silva
-tag: Web,StaticGen,Jekyll
+tag: Jekyll
 categories: ["web/staticgen"]
 ---
 
@@ -57,7 +57,7 @@ Há sites especializados em temas para o Jekyll, no qual pode-se citar os seguin
 * jekyllthemes.io
 * jekyll-themes.com
 
-Neste site foi escolhi o `jekyll-theme-dark-reader` para instalo e preciso seguir as instruções abaixo:
+Para exemplo foi escolhido o tema `jekyll-theme-dark-reader` para instalo e preciso seguir as instruções abaixo:
 
 1. Fazer download ou clone do repositório
    `git clone https://github.com/sharadcodes/jekyll-theme-dark-reader.git`
