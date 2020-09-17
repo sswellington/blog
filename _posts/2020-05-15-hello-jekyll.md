@@ -3,7 +3,7 @@ layout: post
 title:  "Hello Jekyll"
 date:   2020-05-15 22:42:34 -0300
 author: Wellington Silva
-tag: Jekyll
+tag: jekyll
 categories: ["web/staticgen"]
 ---
 
