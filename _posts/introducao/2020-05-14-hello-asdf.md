@@ -3,8 +3,8 @@ layout: post
 title:  "Hello ASDF"
 date:   2020-05-14 22:12:34 -0300
 author: Wellington Silva
-tag: asdf
-categories: [""]
+tag: tutorial
+categories: ["introducao"]
 ---
 
 Uma nova maneira de gerenciar ambiente de programação.

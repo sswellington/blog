@@ -3,8 +3,8 @@ layout: post
 title:  "Hello Shell"
 date:   2020-05-20 00:01:00 -0300
 author: Wellington Silva
-tag: [shell]
-categories: [""]
+tag: tutorial
+categories: ["introducao"]
 ---
 
 ## Comandos básicos
