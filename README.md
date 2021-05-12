@@ -89,6 +89,7 @@ Dentro do arquivo é necessário seguir o padrão de cabeçalho.
 Por fim, toda alteração feita em seu site necessitário que utilize o comando `bundle install` e `bundle exec jekyll serve`, o primeiro para que o Jekyll faça alteração no site e o segundo para enviar as alterações para o servidor HTTP.
 
 # Referência 
+* [Tale](https://github.com/chesterhow/tale/)
 * [jekyllrb](https://jekyllrb.com/)
 * [jekyll-docs](https://jekyllrb.com/docs/home)
 * [jekyll-gh](https://github.com/jekyll/jekyll)
