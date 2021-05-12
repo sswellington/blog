@@ -5,19 +5,39 @@ author: "Wellington"
 permalink: /about/
 ---
 
-Licenciado em Ciência da Computação, graduado pela Universidade Federal Fluminense (UFF), tendo o trabalho final de curso com o seguinte tema: "Combinando abordagens supervisionadas e não-supervisionadas para a segmentação de imagens de úlceras em membros inferiores"
-[¹](http://infes.uff.br/aluno-do-infes-uff-e-pesquisadores-do-grupo-anoti-tem-trabalho-reconhecido-em-conferencia-internacional-aluno-wellington-de-souza-silva-do-curso-de-computacao-do-infes-uff-foi-premiado-como-finalist/).
+### Wellington Silva 🧔🖖
+<!-- nav -->
+| [🏠 Home](https://sswellington.github.io/)
+| [📝 Blog](https://sswellington.github.io/blog/)
+| [🤵 About](https://sswellington.github.io/sobre/)
+| [🐱 Github](https://github.com/sswellington)
+| [🐦 Twitter](https://twitter.com/__wellws__)
+| [💼 Linkedin](https://www.linkedin.com/in/sswellington/)
+| [👨‍🏫 Presentations](https://github.com/sswellington/presentations)
+| [📊 Photos](https://sswellington.github.io/photos/)
+| 
 
-Obteve artigo premiado[²](https://www.computer.org/csdl/proceedings-article/cbms/2019/228600a343/1cdO0qLxGvK) como Finalist Paper in TCCLS Best Paper Award - Presented at the 2019 IEEE International Symposium on Computer-based Medical Systems (CBMS),
-IEEE Technical Commitee on Computational Life Sciences
-[³](https://icmc.usp.br/noticias/4404-computacao-e-medicina-artigos-do-icmc-sao-premiados-em-conferencia-internacional)
-[Ⲁ](https://www.ifnmg.edu.br/mais-noticias-portal/492-portal-noticias-2019/21351-professor-do-ifnmg-e-um-dos-autores-de-estudo-premiado-em-uma-das-principais-conferencias-na-area-de-computacao-medicina-e-bioinformatica)
-[ß](http://agencia.fapesp.br/artigos-de-pesquisadores-do-icmc-usp-sao-premiados-em-conferencia-internacional/31134/)
-. 
+---
 
-Pós-graduando em Arquitetura e Infraestrutura de Tecnologia da Informação pela Faculdade Futura do Grupo Educacional Faveni. 
+### Olá 👋
 
-Interesse na área de Processamento Digital de Imagens e Aprendizagem de Máquina.
+Aqui é Wellington, Sou cientista de dados e professor de informática. 
 
-[Saiba Mais](https://sswellington.github.io/about/) 
-* [Currículo Lattes](http://lattes.cnpq.br/9272070981915554)
+Atualmente, realizo análise de dados de variação sazonal da hidroquímica e transporte de materiais dissolvidos na foz do Rio Paraíba do Sul em cooperação com o Centro de Biociências e Biotecnologia do Laboratório de Ciências Ambientais da Universidade Estadual do Norte Fluminense
+
+Elaboração de sistemas de diagnóstico assistido por computador denominado 2PLA para a
+segmentação de tecidos em fotografias de úlceras crônicas em membros inferiores. Portanto,
+abordagem não intrusiva para análises dermatológicas. Este projeto envolveu a concepção e
+implementação de técnicas de aprendizagem de máquina junto ao processamento digital de
+imagens aplicadas a imagens de úlceras em membros inferiores, visando identificar e segmentar
+diferentes classes de tecidos em feridas dermatológicas
+
+- 🌱 Graduando em Administração Pública pela Universidade Estadual do Norte Fluminense Darcy Ribeiro.
+- 👨‍🎓 Graduado em Ciência da Computação pela Universidade Federal Fluminense.
+- 👨‍🎓 Pós-graduado em Arquitetura e Infraestrutura de Tecnologia da Informação pela Faveni.
+- ❄️ Mestrado em modelagem computacional pelo Laboratório Nacional de Computação Científica - interrompido.
+- 🔭 Atualmente, estou desenvolvendo em Python
+- 👯 Estou procurando colaborar em projetos interessantes em Python e desafios envolvendo a adminstração pública.
+- 💬 Pergunte sobre Tecnologia da Informação ou relacionado a cultura.
+- 📫 Como entrar em contato comigo: wellws@pm.me ou [__wellws__](twitter.com/__wellws__)
+- 😄 Pronomes: Ele
